@@ -1,0 +1,40 @@
+{
+  "registry_version": "2026.1",
+  "venues": [
+    {
+      "code": "ICLA",
+      "name": "International Conference on Learning Architectures",
+      "year": 2026,
+      "kind": "conference",
+      "recognized": true
+    },
+    {
+      "code": "NLDL",
+      "name": "Workshop on Neural Dynamics and Learning",
+      "year": 2026,
+      "kind": "workshop",
+      "recognized": true
+    },
+    {
+      "code": "KDDR",
+      "name": "Symposium on Knowledge Discovery and Data Retrieval",
+      "year": 2026,
+      "kind": "symposium",
+      "recognized": true
+    },
+    {
+      "code": "JALS",
+      "name": "Journal of Advanced Learning Systems",
+      "year": 2026,
+      "kind": "journal",
+      "recognized": false
+    },
+    {
+      "code": "ICML",
+      "name": "International Conference on Machine Learning",
+      "year": 2025,
+      "kind": "conference",
+      "recognized": true
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "paper_id": "P-2026-005",
+  "title": "Efficient Fine-Tuning via Gradient Sparsification",
+  "authors": [
+    "M. Tanaka",
+    "E. Ruiz",
+    "T. Novak"
+  ],
+  "status": "published",
+  "venue": "International Conference on Machine Learning 2025",
+  "artifact_url": null,
+  "updated_on": "2025-11-03",
+  "abstract": "Gradient sparsification reduces the memory footprint of fine-tuning while matching dense-update accuracy on large language models."
+}

@@ -1,0 +1,13 @@
+{
+  "paper_id": "P-2026-004",
+  "title": "Contrastive Retrieval for Low-Resource Domains",
+  "authors": [
+    "A. Silva",
+    "E. Ruiz"
+  ],
+  "status": "under_review",
+  "venue": "Under review at JALS 2026",
+  "artifact_url": null,
+  "updated_on": "2026-08-22",
+  "abstract": "A contrastive retrieval objective that adapts dense retrievers to domains with only a few hundred labelled pairs."
+}

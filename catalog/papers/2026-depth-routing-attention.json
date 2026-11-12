@@ -5,9 +5,9 @@
     "R. Fischer",
     "E. Ruiz"
   ],
-  "status": "rejected",
+  "status": "under_review",
   "venue": "Under review at KDDR 2026",
   "artifact_url": null,
-  "updated_on": "2026-11-12",
+  "updated_on": "2026-08-20",
   "abstract": "Depth-routing attention allocates a learned compute budget per token, yielding sparse attention patterns that remain task-agnostic."
 }

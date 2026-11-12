@@ -6,9 +6,9 @@
     "E. Ruiz",
     "L. Moreau"
   ],
-  "status": "published",
-  "venue": "International Conference on Learning Architectures 2026",
-  "artifact_url": "https://github.com/knobbyintens/emails_github_2399-diffusion-speech-enhancement-k9w3m7",
-  "updated_on": "2026-11-12",
+  "status": "under_review",
+  "venue": "Under review at ICLA 2026",
+  "artifact_url": null,
+  "updated_on": "2026-08-25",
   "abstract": "Diffusion priors act as a generative regularizer for speech enhancement in unseen noise conditions."
 }

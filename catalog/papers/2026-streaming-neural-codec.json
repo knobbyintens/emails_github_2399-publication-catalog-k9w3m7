@@ -6,9 +6,9 @@
     "M. Tanaka",
     "S. Okafor"
   ],
-  "status": "published",
-  "venue": "International Conference on Learning Architectures 2026",
-  "artifact_url": "https://github.com/knobbyintens/emails_github_2399-neural-audio-codec-k9w3m7",
-  "updated_on": "2026-11-12",
+  "status": "under_review",
+  "venue": "Under review at ICLA 2026",
+  "artifact_url": null,
+  "updated_on": "2026-08-15",
   "abstract": "We present a streaming neural audio codec that operates at sub-frame latency while preserving perceptual quality for real-time speech communication."
 }

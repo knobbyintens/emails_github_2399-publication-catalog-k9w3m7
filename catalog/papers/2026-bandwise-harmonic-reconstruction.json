@@ -6,9 +6,9 @@
     "E. Ruiz",
     "K. Adeyemi"
   ],
-  "status": "under_review",
-  "venue": "Under review at NLDL 2026",
-  "artifact_url": null,
-  "updated_on": "2026-08-18",
+  "status": "published",
+  "venue": "Workshop on Neural Dynamics and Learning 2026",
+  "artifact_url": "https://github.com/knobbyintens/emails_github_2399-harmonic-reconstruction-k9w3m7",
+  "updated_on": "2026-11-12",
   "abstract": "A bandwise harmonic reconstruction method that restores high-frequency content in wideband speech without increasing model capacity."
 }
